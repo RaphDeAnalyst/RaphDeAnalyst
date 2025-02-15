@@ -17,6 +17,3 @@ Here are some of the projects I've worked on:
 - **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/matthew-nnamani)
 - **Twitter**: [Your Twitter Handle](https://twitter.com/matthew_nnamani)
 
----
-
-⭐️ From [Your Name](https://github.com/RaphDeAnalyst)
